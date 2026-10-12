@@ -1,0 +1,26 @@
+{"q": "How full is Bhadra right now?", "intent": "level", "tool": "get_latest_level"}
+{"q": "What is the current level of Bhadra dam?", "intent": "level", "tool": "get_latest_level"}
+{"q": "What will the Bhadra level be in 7 days?", "intent": "forecast", "tool": "get_forecast"}
+{"q": "Forecast Bhadra for tomorrow", "intent": "forecast", "tool": "get_forecast"}
+{"q": "Predict Bhadra 30 days ahead", "intent": "forecast", "tool": "get_forecast"}
+{"q": "What was the Bhadra forecast as of 12 March 2026 for 14 days?", "intent": "forecast", "tool": "get_forecast"}
+{"q": "How accurate is the 7 day forecast for Bhadra?", "intent": "performance", "tool": "get_model_performance"}
+{"q": "Does the model beat persistence for Bhadra?", "intent": "performance", "tool": "get_model_performance"}
+{"q": "How does the forecasting model work?", "intent": "model", "tool": "search_knowledge"}
+{"q": "What is Delta-LSTM?", "intent": "model", "tool": "search_knowledge"}
+{"q": "Where does the water level data come from?", "intent": "sources", "tool": "search_knowledge"}
+{"q": "How often is the data updated?", "intent": "sources", "tool": "search_knowledge"}
+{"q": "Which regions are affected if Bhadra overflows?", "intent": "region", "tool": "get_region_info"}
+{"q": "What places are near the Bhadra reservoir?", "intent": "region", "tool": "get_region_info"}
+{"q": "Show the Bhadra trend over the last 30 days", "intent": "history", "tool": "get_history_summary"}
+{"q": "How has the Bhadra level changed recently?", "intent": "history", "tool": "get_history_summary"}
+{"q": "Which dam is the fullest?", "intent": "compare", "tool": "compare_dams"}
+{"q": "Compare all the reservoirs", "intent": "compare", "tool": "compare_dams"}
+{"q": "Tell me about Bhadra dam", "intent": "info", "tool": "get_dam_info"}
+{"q": "Which river is Bhadra on?", "intent": "info", "tool": "get_dam_info"}
+{"q": "What is FRL?", "intent": "glossary", "tool": "search_knowledge"}
+{"q": "What does TMC stand for?", "intent": "glossary", "tool": "search_knowledge"}
+{"q": "How do I step through past dates in the app?", "intent": "help", "tool": "search_knowledge"}
+{"q": "hello", "intent": "greeting", "tool": null}
+{"q": "write me a poem about cats", "intent": "out_of_scope", "tool": null}
+{"q": "who won the cricket match yesterday", "intent": "out_of_scope", "tool": null}

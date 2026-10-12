@@ -2,6 +2,8 @@
 
 Jaladrishti is a reservoir monitoring and short-range forecasting platform for Karnataka. It combines daily reservoir observations, rainfall data, a FastAPI service, per-horizon PyTorch models, and a Next.js dashboard.
 
+See [ARCHITECTURE.md](ARCHITECTURE.md) for the runtime, data pipeline, and machine-learning architecture diagrams.
+
 The platform shows 1-, 7-, 14-, and 30-day storage forecasts when a trained artifact is available. For each horizon, the training pipeline compares its own LSTM with persistence, a recent-trend forecast, and a seasonal-naive forecast. Persistence remains the selected forecast whenever the other candidates do not meet the validation rules. The forecasts are for situational awareness; they are not instructions for reservoir releases or dam operations.
 
 ## What the application includes

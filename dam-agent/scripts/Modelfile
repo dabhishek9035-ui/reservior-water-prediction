@@ -1,0 +1,6 @@
+# ollama create jaladrishti -f scripts/Modelfile   then set CHAT_MODEL=jaladrishti
+FROM qwen2.5-coder:7b
+PARAMETER num_ctx 6144
+PARAMETER temperature 0.2
+PARAMETER top_p 0.9
+PARAMETER repeat_penalty 1.05

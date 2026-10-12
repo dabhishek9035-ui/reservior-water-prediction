@@ -1,0 +1,386 @@
+[
+  {
+    "id": "almatti",
+    "name": "Almatti",
+    "reservoir": "Almatti Dam (Lal Bahadur Shastri Sagar)",
+    "river": "Krishna River",
+    "location": "Vijayapura / Bagalkote, Karnataka",
+    "district": "Vijayapura / Bagalkote",
+    "state": "Karnataka",
+    "lat": 16.331,
+    "lng": 75.888,
+    "yearBuilt": 1964,
+    "purpose": "Irrigation, Hydropower (290 MW), Drinking Water",
+    "maxLevel": 1708.0,
+    "minLevel": 1570.0,
+    "unit": "ft",
+    "grossStorage": 123.08,
+    "liveStorage": 123.08,
+    "deadStorage": 2.2,
+    "catchmentArea": 36000,
+    "nearbyPlaces": [
+      "Almatti",
+      "Muddebihal",
+      "Bagalkote"
+    ],
+    "affectedRegions": [
+      "Bagalkote",
+      "Vijayapura",
+      "Raichur",
+      "Yadgir"
+    ],
+    "lastRecorded": {
+      "date": "2026-09-27",
+      "level": 1698.4
+    },
+    "aliases": [
+      "lal bahadur shastri sagar",
+      "almatti"
+    ]
+  },
+  {
+    "id": "bhadra",
+    "name": "Bhadra",
+    "reservoir": "Bhadra Dam (Lakkavalli)",
+    "river": "Bhadra River",
+    "location": "Chikkamagaluru, Karnataka",
+    "district": "Chikkamagaluru",
+    "state": "Karnataka",
+    "lat": 13.702,
+    "lng": 75.642,
+    "yearBuilt": 1965,
+    "purpose": "Irrigation & Hydropower",
+    "maxLevel": 2158.0,
+    "minLevel": 2070.0,
+    "unit": "ft",
+    "grossStorage": 71.5,
+    "liveStorage": 71.5,
+    "deadStorage": 3.8,
+    "catchmentArea": 19680,
+    "nearbyPlaces": [
+      "Lakkavalli",
+      "Bhadravathi",
+      "Tarikere"
+    ],
+    "affectedRegions": [
+      "Shivamogga",
+      "Chikkamagaluru",
+      "Davanagere"
+    ],
+    "lastRecorded": {
+      "date": "2026-09-27",
+      "level": 2147.7
+    },
+    "aliases": [
+      "lakkavalli",
+      "bhadra"
+    ]
+  },
+  {
+    "id": "hemavathy",
+    "name": "Hemavathy",
+    "reservoir": "Hemavathy Reservoir (Gorur)",
+    "river": "Hemavathi River",
+    "location": "Hassan, Karnataka",
+    "district": "Hassan",
+    "state": "Karnataka",
+    "lat": 12.909,
+    "lng": 76.053,
+    "yearBuilt": 1979,
+    "purpose": "Irrigation & Drinking Water",
+    "maxLevel": 2922.0,
+    "minLevel": 2780.0,
+    "unit": "ft",
+    "grossStorage": 37.1,
+    "liveStorage": 37.1,
+    "deadStorage": 1.6,
+    "catchmentArea": 28000,
+    "nearbyPlaces": [
+      "Gorur",
+      "Hassan",
+      "Holenarasipura"
+    ],
+    "affectedRegions": [
+      "Hassan",
+      "Mandya",
+      "Tumakuru"
+    ],
+    "lastRecorded": {
+      "date": "2026-09-27",
+      "level": 2914.2
+    },
+    "aliases": [
+      "gorur",
+      "hemavathi"
+    ]
+  },
+  {
+    "id": "kabini",
+    "name": "Kabini",
+    "reservoir": "Kabini Reservoir (Beechanahalli)",
+    "river": "Kabini River",
+    "location": "Mysuru, Karnataka",
+    "district": "Mysuru",
+    "state": "Karnataka",
+    "lat": 11.973,
+    "lng": 76.353,
+    "yearBuilt": 1974,
+    "purpose": "Cauvery Basin Irrigation & Bengaluru Water",
+    "maxLevel": 2284.0,
+    "minLevel": 2180.0,
+    "unit": "ft",
+    "grossStorage": 19.5,
+    "liveStorage": 19.5,
+    "deadStorage": 1.1,
+    "catchmentArea": 21400,
+    "nearbyPlaces": [
+      "H D Kote",
+      "Nanjangud",
+      "Saragur"
+    ],
+    "affectedRegions": [
+      "Mysuru",
+      "Chamarajanagar"
+    ],
+    "lastRecorded": {
+      "date": "2026-09-27",
+      "level": 2278.6
+    },
+    "aliases": [
+      "beechanahalli",
+      "kabini"
+    ]
+  },
+  {
+    "id": "krsagara",
+    "name": "KRS Dam",
+    "reservoir": "Krishna Raja Sagara Dam (KRS)",
+    "river": "Cauvery River",
+    "location": "Mandya, Karnataka",
+    "district": "Mandya",
+    "state": "Karnataka",
+    "lat": 12.424,
+    "lng": 76.572,
+    "yearBuilt": 1932,
+    "purpose": "Bengaluru Drinking Water & Cauvery Delta Irrigation",
+    "maxLevel": 124.8,
+    "minLevel": 102.0,
+    "unit": "ft",
+    "grossStorage": 105.79,
+    "liveStorage": 105.79,
+    "deadStorage": 8.4,
+    "catchmentArea": 10700,
+    "nearbyPlaces": [
+      "Srirangapatna",
+      "Mysuru",
+      "Mandya"
+    ],
+    "affectedRegions": [
+      "Mandya",
+      "Mysuru",
+      "Bengaluru South"
+    ],
+    "lastRecorded": {
+      "date": "2026-09-27",
+      "level": 121.5
+    },
+    "aliases": [
+      "krs",
+      "krishna raja sagara",
+      "kannambadi"
+    ]
+  },
+  {
+    "id": "linganamakki",
+    "name": "Linganamakki",
+    "reservoir": "Linganamakki Dam",
+    "river": "Sharavathi River",
+    "location": "Shivamogga, Karnataka",
+    "district": "Shivamogga",
+    "state": "Karnataka",
+    "lat": 14.197,
+    "lng": 74.843,
+    "yearBuilt": 1964,
+    "purpose": "Sharavathi Hydroelectric Project (Jog Falls)",
+    "maxLevel": 1819.0,
+    "minLevel": 1680.0,
+    "unit": "ft",
+    "grossStorage": 156.61,
+    "liveStorage": 156.61,
+    "deadStorage": 5.8,
+    "catchmentArea": 19900,
+    "nearbyPlaces": [
+      "Jog Falls",
+      "Sagara",
+      "Kargal"
+    ],
+    "affectedRegions": [
+      "Shivamogga",
+      "Uttara Kannada",
+      "Honnavar"
+    ],
+    "lastRecorded": {
+      "date": "2026-09-27",
+      "level": 1807.3
+    },
+    "aliases": [
+      "sharavathi",
+      "linganamakki"
+    ]
+  },
+  {
+    "id": "malaprabha",
+    "name": "Malaprabha",
+    "reservoir": "Malaprabha Reservoir (Renuka Sagar / Saundatti)",
+    "river": "Malaprabha River",
+    "location": "Belagavi, Karnataka",
+    "district": "Belagavi",
+    "state": "Karnataka",
+    "lat": 15.823,
+    "lng": 75.118,
+    "yearBuilt": 1972,
+    "purpose": "Irrigation for North Karnataka",
+    "maxLevel": 2079.5,
+    "minLevel": 1960.0,
+    "unit": "ft",
+    "grossStorage": 37.73,
+    "liveStorage": 37.73,
+    "deadStorage": 2.7,
+    "catchmentArea": 11330,
+    "nearbyPlaces": [
+      "Saundatti",
+      "Naviluteertha",
+      "Ramdurg"
+    ],
+    "affectedRegions": [
+      "Belagavi",
+      "Bagalkote",
+      "Dharwad"
+    ],
+    "lastRecorded": {
+      "date": "2026-09-27",
+      "level": 2071.8
+    },
+    "aliases": [
+      "renuka sagar",
+      "naviluteertha",
+      "malaprabha"
+    ]
+  },
+  {
+    "id": "supa",
+    "name": "Supa",
+    "reservoir": "Supa Dam (Kalinadi Hydro)",
+    "river": "Kali River",
+    "location": "Uttara Kannada, Karnataka",
+    "district": "Uttara Kannada",
+    "state": "Karnataka",
+    "lat": 15.275,
+    "lng": 74.526,
+    "yearBuilt": 1980,
+    "purpose": "Kalinadi Hydroelectric Project (100 MW)",
+    "maxLevel": 1850.0,
+    "minLevel": 1710.0,
+    "unit": "ft",
+    "grossStorage": 147.53,
+    "liveStorage": 147.53,
+    "deadStorage": 6.7,
+    "catchmentArea": 10500,
+    "nearbyPlaces": [
+      "Joida",
+      "Dandeli",
+      "Ganeshgudi"
+    ],
+    "affectedRegions": [
+      "Uttara Kannada",
+      "Karwar"
+    ],
+    "lastRecorded": {
+      "date": "2026-09-27",
+      "level": 1836.9
+    },
+    "aliases": [
+      "kali",
+      "kalinadi",
+      "supa"
+    ]
+  },
+  {
+    "id": "tungabhadra",
+    "name": "Tungabhadra",
+    "reservoir": "Tungabhadra Dam (Pampa Sagar)",
+    "river": "Tungabhadra River",
+    "location": "Vijayanagara / Hosapete, Karnataka",
+    "district": "Vijayanagara / Hosapete",
+    "state": "Karnataka",
+    "lat": 15.263,
+    "lng": 76.335,
+    "yearBuilt": 1953,
+    "purpose": "Inter-state Irrigation (Karnataka & Andhra)",
+    "maxLevel": 1633.0,
+    "minLevel": 1510.0,
+    "unit": "ft",
+    "grossStorage": 100.8,
+    "liveStorage": 100.8,
+    "deadStorage": 5.2,
+    "catchmentArea": 28000,
+    "nearbyPlaces": [
+      "Hosapete",
+      "Hampi",
+      "Kamalapuram"
+    ],
+    "affectedRegions": [
+      "Vijayanagara",
+      "Koppal",
+      "Raichur",
+      "Ballari"
+    ],
+    "lastRecorded": {
+      "date": "2026-09-27",
+      "level": 1625.1
+    },
+    "aliases": [
+      "pampa sagar",
+      "tb dam",
+      "tungabhadra"
+    ]
+  },
+  {
+    "id": "vanivilasa_sagar",
+    "name": "Vani Vilasa",
+    "reservoir": "Vani Vilasa Sagara (Mari Kanive)",
+    "river": "Vedavathi River",
+    "location": "Chitradurga, Karnataka",
+    "district": "Chitradurga",
+    "state": "Karnataka",
+    "lat": 13.987,
+    "lng": 76.489,
+    "yearBuilt": 1907,
+    "purpose": "Drought-prone Chitradurga Irrigation & Heritage Dam",
+    "maxLevel": 130.0,
+    "minLevel": 102.0,
+    "unit": "ft",
+    "grossStorage": 30.4,
+    "liveStorage": 30.4,
+    "deadStorage": 2.1,
+    "catchmentArea": 4890,
+    "nearbyPlaces": [
+      "Hiriyur",
+      "Challakere",
+      "Hosadurga"
+    ],
+    "affectedRegions": [
+      "Chitradurga",
+      "Tumakuru"
+    ],
+    "lastRecorded": {
+      "date": "2026-09-27",
+      "level": 124.6
+    },
+    "aliases": [
+      "mari kanive",
+      "vani vilasa sagar",
+      "hiriyur"
+    ]
+  }
+]

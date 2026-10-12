@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useEffect, useState } from 'react';
 import SceneCanvas from './SceneCanvas';
+import ChatDrawer from './ChatDrawer';
 import { useAppStore } from '@/state/store';
 
 const links = [{ href: '/', label: 'Home' }, { href: '/dams', label: 'Dams' }, { href: '/predictions', label: 'Predictions' }];
@@ -23,5 +24,6 @@ export default function SiteShell({ children }: { children: React.ReactNode }) {
     {menuOpen && <div className="mobile-drawer"><nav aria-label="Mobile navigation">{links.map((link)=><Link key={link.href} href={link.href} className={path===link.href?'active':''}>{link.label}<span>↗</span></Link>)}<p>Hydrological intelligence for Karnataka</p></nav></div>}
     <main className={`page-shell page-${path==='/predictions'?'predictions':path==='/dams'?'dams':'home'}`}>{children}</main>
     <div className="scene-caption"><span className="caption-line" /> {path==='/predictions'?'RESERVOIR CROSS-SECTION':'UNDERWATER OBSERVATORY'}</div>
+    <ChatDrawer />
   </>;
 }

@@ -1,5 +1,6 @@
 export const GITHUB_URL = 'https://github.com/dabhishek9035-ui/societal-project';
 export const API_BASE_URL = process.env.NEXT_PUBLIC_API_BASE_URL ?? 'http://127.0.0.1:8000';
+export const AGENT_BASE_URL = process.env.NEXT_PUBLIC_AGENT_BASE_URL ?? 'http://127.0.0.1:8100';
 export const USE_MOCK = process.env.NEXT_PUBLIC_USE_MOCK === 'true';
 
 export const projectInfo = {
